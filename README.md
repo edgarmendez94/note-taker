@@ -12,11 +12,11 @@ This is an app you can use to write and save notes! Close and reopen anytime to 
 
 or 
 
-click on my Heroku link added to README
+click on my Heroku deploy link added to README
 
 ## Usage
-
-link
+Deploy Link
+https://note-taker-edgar.herokuapp.com/
 
 ## Main Page
 
